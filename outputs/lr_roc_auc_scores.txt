@@ -1,0 +1,2 @@
+Logistic Regression (SMOTE) ROC AUC: 0.9398301990162684
+Logistic Regression (Class Weights) ROC AUC: 0.9398395412859739
